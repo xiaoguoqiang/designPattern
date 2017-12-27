@@ -1,0 +1,6 @@
+### Maven template
+learn/target/
+.mvn/timing.properties
+# ignore idea files
+.idea
+
