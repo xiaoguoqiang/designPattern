@@ -1,4 +1,7 @@
-package proxy;
+package proxy.remoteProxy;
+
+import proxy.remoteProxy.MyRemote;
+import proxy.remoteProxy.MyRemoteImpl;
 
 import java.net.MalformedURLException;
 import java.rmi.Naming;

@@ -1,4 +1,6 @@
-package proxy;
+package proxy.virtualProxy;
+
+import proxy.virtualProxy.Icon;
 
 import javax.swing.*;
 import java.awt.*;
